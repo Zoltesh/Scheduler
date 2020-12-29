@@ -1,0 +1,26 @@
+Login Activity
+
+2020-12-13 13:55:12 Successful login by user: test
+2020-12-13 13:56:12 Successful login by user: test
+2020-12-14 17:19:16 Invalid username: testy
+2020-12-14 17:19:21 Invalid password for username: test
+2020-12-14 17:19:25 Successful login by user: test
+2020-12-14 19:52:06 Successful login by user: test
+2020-12-14 20:00:21 Invalid password for username: test
+2020-12-14 20:00:25 Successful login by user: test
+2020-12-14 20:20:02 Invalid password for username: test
+2020-12-14 20:20:07 Invalid username: asdf
+2020-12-14 20:23:54 Invalid password for username: test
+2020-12-14 20:23:58 Successful login by user: test
+2020-12-15 19:01:12 Successful login by user: test
+2020-12-15 19:07:57 Successful login by user: test
+2020-12-15 19:28:49 Successful login by user: test
+2020-12-15 20:11:42 Successful login by user: test
+2020-12-15 20:12:14 Successful login by user: test
+2020-12-15 20:13:06 Successful login by user: test
+2020-12-15 20:13:58 Successful login by user: test
+2020-12-15 20:25:47 Invalid username: qsdf
+2020-12-15 20:26:04 Invalid username: qsdf
+2020-12-15 20:26:09 Successful login by user: test
+2020-12-17 19:18:28 Invalid username: oo
+2020-12-17 19:19:51 Successful login by user: test
